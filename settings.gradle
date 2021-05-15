@@ -1,0 +1,2 @@
+rootProject.name = "Fine dot"
+include ':app'
